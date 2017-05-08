@@ -1,0 +1,7 @@
+#Thu Jan 26 19:16:17 EST 2017
+base.0=C\:\\Users\\Joel\\AndroidStudioProjects\\FavAPISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d6b632d5ca81af0af728ee0f9b89235cb7b9b742
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Joel\\AndroidStudioProjects\\FavAPISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_95cb39ab80bab019d9971e144e096f4b05c45ad4\\classes.dex
+base.1=C\:\\Users\\Joel\\AndroidStudioProjects\\FavAPISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_95cb39ab80bab019d9971e144e096f4b05c45ad4
+file.0=C\:\\Users\\Joel\\AndroidStudioProjects\\FavAPISearchAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d6b632d5ca81af0af728ee0f9b89235cb7b9b742\\classes.dex
